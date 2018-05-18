@@ -25,4 +25,6 @@ public class TrashClass {
         //OMG va kul nu fungerar det!!
     }
 
+
+    //TODO HALLÅ GRUPPEN
 }

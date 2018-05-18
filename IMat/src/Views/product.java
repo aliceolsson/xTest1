@@ -70,7 +70,7 @@ public class product extends AnchorPane {
         shoppingCart = db.getShoppingCart();
 
         transparentButtonPlus.setOnAction(e -> {
-            amountItemProductVi
+          //  amountItemProductVi
 
         });
 
